@@ -1,0 +1,1281 @@
+var teamData = {
+	"Air Force": {
+		"latitude":38.997,
+		"longitude":-104.843,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/b/b5/Air_Force_text_logo.png",
+		"url":"https://en.wikipedia.org/wiki/Air_Force_Falcons_football",
+		"conference":"Mountain West",
+		"iconWidth": 254,
+		"iconHeight": 310
+	},
+
+	"Akron": {
+		"latitude":41.072347,
+		"longitude":-81.508019,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Akron_Z_logo_2015.png/320px-Akron_Z_logo_2015.png",
+		"url":"https://en.wikipedia.org/wiki/Akron_Zips_football",
+		"conference":"MAC",
+		"iconWidth":320,
+		"iconHeight":165
+	},
+
+	"Alabama": {
+		"latitude":33.207778,
+		"longitude":-87.550556,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CrimsonTideAlogo.png/480px-CrimsonTideAlogo.png",
+		"url":"https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football",
+		"conference":"SEC",
+		"iconWidth":380,
+		"iconHeight":380
+	},
+
+	"Appalachian State": {
+		"latitude":36.211667,
+		"longitude":-81.685556,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Asu_blocka_logo.png/419px-Asu_blocka_logo.png",
+		"url":"https://en.wikipedia.org/wiki/Appalachian_State_Mountaineers_football",
+		"conference":"Sun Belt",
+		"iconWidth":319,
+		"iconHeight":380
+	},
+
+	"Arizona" : {
+		"latitude":32.229,
+		"longitude":-110.949,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/University_of_Arizona_Block_A.svg/260px-University_of_Arizona_Block_A.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Arizona_Wildcats_football",
+		"conference":"Pac-12",
+		"iconWidth":340,
+		"iconHeight":300
+	},
+	"Arizona State" : {
+		"latitude":33.426389,
+		"longitude":-111.9325,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/2/21/Arizona_State_Sun_Devils_trident_logo.png",
+		"url":"https://en.wikipedia.org/wiki/Arizona_State_Sun_Devils_football",
+		"conference":"Pac-12",
+		"iconWidth":251,
+		"iconHeight":448
+	},
+
+	"Arkansas": {
+		"latitude":36.068056,
+		"longitude":-94.178889,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Arkansas-Razorback-Logo-2001.png/320px-Arkansas-Razorback-Logo-2001.png",
+		"url":"https://en.wikipedia.org/wiki/Arkansas_Razorbacks_football",
+		"conference":"SEC",
+		"iconWidth":420,
+		"iconHeight":241
+	},
+
+	"Arkansas State": {
+		"latitude":35.848889,
+		"longitude":-90.667222,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/2/28/Arkansas_red_wolves_logo.png",
+		"url":"https://en.wikipedia.org/wiki/Arkansas_State_Red_Wolves_football",
+		"conference":"Sun Belt",
+		"iconWidth":325,
+		"iconHeight":340
+	},
+
+	"Army West Point": {
+		"latitude":41.3875,
+		"longitude":-73.964167,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/ArmyWestPointAthenaShield.png/413px-ArmyWestPointAthenaShield.png",
+		"url":"https://en.wikipedia.org/wiki/Army_Black_Knights_football",
+		"conference":"Independent",
+		"iconWidth":313,
+		"iconHeight":380
+	},
+
+	"Auburn": {
+		"latitude":32.602222,
+		"longitude":-85.489167,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/AuburnTigers.svg/275px-AuburnTigers.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Auburn_Tigers_football",
+		"conference":"SEC",
+		"iconWidth":375,
+		"iconHeight":340
+	},
+
+	"Ball State": {
+		"latitude":40.2159,
+		"longitude":-85.4161,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/c/ca/BallStateCardinals.png",
+		"url":"https://en.wikipedia.org/wiki/Ball_State_Cardinals_football",
+		"conference":"MAC",
+		"iconWidth":300,
+		"iconHeight":400
+	},
+
+	"Baylor": {
+		"latitude":31.5582,
+		"longitude":-97.1157,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Baylor_University_Athletics_%28logo%29.svg/208px-Baylor_University_Athletics_%28logo%29.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Baylor_Bears_football",
+		"conference":"Big 12",
+		"iconWidth":308,
+		"iconHeight":340
+	},
+
+	"Boise State": {
+		"latitude":43.603,
+		"longitude":-116.196,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/7/7c/Boise_State_updated_official_mark_2013.png",
+		"url":"https://en.wikipedia.org/wiki/Boise_State_Broncos_football",
+		"conference":"Mountain West",
+		"iconWidth":347,
+		"iconHeight":288
+	},
+
+	"Boston College": {
+		"latitude":42.335,
+		"longitude": -71.166389,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/4/42/BostonCollegeEagles.svg/264px-BostonCollegeEagles.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Boston_College_Eagles_football",
+		"conference":"ACC",
+		"iconWidth":350,
+		"iconHeight":290
+	},
+
+	"Bowling Green": {
+		"latitude":41.378056,
+		"longitude":-83.6225,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/8/80/Bowling_Green_Falcons_logo.png",
+		"url":"https://en.wikipedia.org/wiki/Bowling_Green_Falcons_football",
+		"conference":"MAC",
+		"iconWidth":375,
+		"iconHeight":349
+	},
+
+	"Buffalo": {
+		"latitude":42.999167,
+		"longitude":-78.7775,
+		"logo":"http://assets.sbnation.com/assets/1257896/header_logo.png",
+		"url":"https://en.wikipedia.org/wiki/Buffalo_Bulls_football",
+		"conference":"MAC",
+		"iconWidth":430,
+		"iconHeight":301
+	},
+
+	"BYU": {
+		"latitude":40.2575,
+		"longitude":-111.654444,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/1/16/BYU_Athletic_Logo.svg",
+		"url":"https://en.wikipedia.org/wiki/BYU_Cougars_football",
+		"conference":"Independent",
+		"iconWidth":300,
+		"iconHeight":240
+	},
+
+	"California" : {
+		"latitude":37.871111,
+		"longitude":-122.250833,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/University_of_California%2C_Berkeley_athletic_logo.svg/300px-University_of_California%2C_Berkeley_athletic_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/California_Golden_Bears_football",
+		"conference":"Pac-12",
+		"iconWidth":350,
+		"iconHeight":290
+	},
+
+	"Fresno State": {
+		"latitude":36.814,
+		"longitude":-119.758,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Fresno_State_Bulldogs_Logo.svg/320px-Fresno_State_Bulldogs_Logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Fresno_State_Bulldogs_football",
+		"conference":"Mountain West",
+		"iconWidth":350,
+		"iconHeight":268
+	},
+
+	"UCLA" : {
+		"latitude":34.161389,
+		"longitude":-118.1675,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/UCLA_Bruins_script_logo.png/314px-UCLA_Bruins_script_logo.png",
+		"url":"https://en.wikipedia.org/wiki/UCLA_Bruins_football",
+		"conference":"Pac-12",
+		"iconWidth":374,
+		"iconHeight":280
+	},
+
+	"UCF": {
+		"latitude":28.6083,
+		"longitude":-81.1926,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/University_of_Central_Florida_UCF_vertical_text_logo.svg/316px-University_of_Central_Florida_UCF_vertical_text_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/UCF_Knights_football",
+		"conference":"AAC",
+		"iconWidth":416,
+		"iconHeight":340
+	},
+
+	"Central Michigan": {
+		"latitude":43.5775,
+		"longitude":-84.770833,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/3/32/CentralMichiganChippewas.png",
+		"url":"https://en.wikipedia.org/wiki/Central_Michigan_Chippewas_football",
+		"conference":"MAC",
+		"iconWidth":360,
+		"iconHeight":277
+	},
+
+	"Charlotte": {
+		"latitude":35.310556,
+		"longitude":-80.740278,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/3/3a/Charlotte_49ers_athletic_logo.png",
+		"url":"https://en.wikipedia.org/wiki/Charlotte_49ers_football",
+		"conference":"C-USA",
+		"iconWidth":305,
+		"iconHeight":329
+	},
+
+	"Cincinnati": {
+		"latitude":39.131111,
+		"longitude":-84.516111,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Cincinnati_Bearcats.svg/151px-Cincinnati_Bearcats.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Cincinnati_Bearcats_football",
+		"conference":"AAC",
+		"iconWidth":231,
+		"iconHeight":340
+	},
+
+	"Clemson": {
+		"latitude":34.678611,
+		"longitude":-82.843056,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Clemson_University_Tiger_Paw_logo.svg/502px-Clemson_University_Tiger_Paw_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Clemson_Tigers_football",
+		"conference":"ACC",
+		"iconWidth":359,
+		"iconHeight":316
+	},
+
+	"Colorado": {
+		"latitude":40.009,
+		"longitude":-105.267,
+		"logo":"http://www.fbschedules.com/images/logos/fbs/colorado-buffaloes.png",
+		"url":"https://en.wikipedia.org/wiki/Colorado_Buffaloes_football",
+		"conference":"Pac-12",
+		"iconWidth":900,
+		"iconHeight":471
+	},
+
+	"Colorado State": {
+		"latitude":40.562222,
+		"longitude":-105.141667,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/2/2f/Colorado_Rams_logo.png",
+		"url":"https://en.wikipedia.org/wiki/Colorado_State_Rams_football",
+		"conference":"Mountain West",
+		"iconWidth":337,
+		"iconHeight":340
+	},
+
+	"Connecticut": {
+		"latitude":41.759722,
+		"longitude":-72.618889,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/b/bc/Uconn_Huskies_logo2013.png",
+		"url":"https://en.wikipedia.org/wiki/Connecticut_Huskies_football",
+		"conference":"AAC",
+		"iconWidth":450,
+		"iconHeight":390
+	},
+
+	"Duke": {
+		"latitude":35.995278,
+		"longitude":-78.941667,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/6/6b/Duke_text_logo.svg",
+		"url":"https://en.wikipedia.org/wiki/Duke_Blue_Devils_football",
+		"conference":"ACC",
+		"iconWidth":320,
+		"iconHeight":302
+	},
+
+	"Eastern Michigan": {
+		"latitude":42.255833,
+		"longitude":-83.647222,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/EMU_Eagles_logo.png/446px-EMU_Eagles_logo.png",
+		"url":"https://en.wikipedia.org/wiki/Eastern_Michigan_Eagles_football",
+		"conference":"MAC",
+		"iconWidth":256,
+		"iconHeight":300
+	},
+
+	"East Carolina": {
+		"latitude":35.596389,
+		"longitude":-77.365278,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/6/60/East_Carolina_Pirates_logo.png",
+		"url":"https://en.wikipedia.org/wiki/East_Carolina_Pirates_football",
+		"conference":"AAC",
+		"iconWidth":325,
+		"iconHeight":340
+	},
+
+	"FIU": {
+		"latitude":25.7525,
+		"longitude":-80.377778,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/FIU_Panthers.svg/371px-FIU_Panthers.svg.png",
+		"url":"https://en.wikipedia.org/wiki/FIU_Panthers_football",
+		"conference":"C-USA",
+		"iconWidth":371,
+		"iconHeight":480
+	},
+
+	"Florida": {
+		"latitude":29.65,
+		"longitude":-82.348611,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Florida_Gators_logo.svg/320px-Florida_Gators_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Florida_Gators_football",
+		"conference":"SEC",
+		"iconWidth":350,
+		"iconHeight":250
+	},
+
+	"Florida Atlantic": {
+		"latitude":26.3764,
+		"longitude":-80.1016,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/5/52/Florida_Atlantic_Owls_primary_logo.png",
+		"url":"https://en.wikipedia.org/wiki/Florida_Atlantic_Owls_football",
+		"conference":"C-USA",
+		"iconWidth":350,
+		"iconHeight":300
+	},
+
+	"Florida State": {
+		"latitude":30.438056,
+		"longitude":-84.304444,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/b/b5/FSU_Seminoles_logo.png",
+		"url":"https://en.wikipedia.org/wiki/Florida_State_Seminoles_football",
+		"conference":"ACC",
+		"iconWidth":329,
+		"iconHeight":328
+	},
+
+	"Georgia": {
+		"latitude":33.949722,
+		"longitude":-83.373333,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/UGA_logo.svg/378px-UGA_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Georgia_Bulldogs_football",
+		"conference":"SEC",
+		"iconWidth":378,
+		"iconHeight":250
+	},
+
+	"Georgia Southern": {
+		"latitude":32.4122,
+		"longitude":-81.7849,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/3/37/Georgia_Southern_Eagles_logo.png",
+		"url":"https://en.wikipedia.org/wiki/Georgia_Southern_Eagles_football",
+		"conference":"Sun Belt",
+		"iconWidth":400,
+		"iconHeight":235
+	},
+
+	"Georgia State": {
+		"latitude":33.7575,
+		"longitude":-84.400833,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/8/84/Georgia_State_Panthers_Logo.svg",
+		"url":"https://en.wikipedia.org/wiki/Georgia_State_Panthers_football",
+		"conference":"Sun Belt",
+		"iconWidth":380,
+		"iconHeight":400
+	},
+
+	"Georgia Tech": {
+		"latitude":33.7725,
+		"longitude":-84.392778,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Georgia_Tech_Outline_Interlocking_logo.svg/320px-Georgia_Tech_Outline_Interlocking_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Georgia_Tech_Yellow_Jackets_football",
+		"conference":"ACC",
+		"iconWidth":420,
+		"iconHeight":308
+	},
+
+	"Hawaii": {
+		"latitude":21.372778,
+		"longitude":-157.93,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hawaii_Warriors_Logo.svg/319px-Hawaii_Warriors_Logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Hawaii_Rainbow_Warriors_football",
+		"conference":"Mountain West",
+		"iconWidth":319,
+		"iconHeight":240
+	},
+
+	"Houston": {
+		"latitude":29.721944,
+		"longitude":-95.349167,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_of_University_of_Houston_Athletics.png",
+		"url":"https://en.wikipedia.org/wiki/Houston_Cougars_football",
+		"conference":"AAC",
+		"iconWidth":388,
+		"iconHeight":363
+	}/*,
+
+	"Idaho": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Illinois": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Indiana": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Iowa": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Iowa State": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Kansas": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Kansas State": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Kent State": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Kentucky": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"LSU": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Louisiana Tech": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Louisiana-Lafayette": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Louisiana-Monroe": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Louisville": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Marshall": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Maryland": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Massachusetts": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Memphis": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Miami (FL)": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Miami (OH)": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Michigan": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Michigan State": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Middle Tennessee": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Minnesota": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Ole Miss": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Mississippi State": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Missouri": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Navy": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Nebraska": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Nevada": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"UNLV": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"New Mexico": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"New Mexico State": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"North Carolina": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"NC State": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"North Texas": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"NIU": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Northwestern": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Notre Dame": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Ohio": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Ohio State": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Oklahoma": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Oklahoma State": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Old Dominion": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Oregon": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Oregon State": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Penn State": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Pittsburgh": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Purdue": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Rice": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Rutgers": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"San Diego State": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"San Jose State": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"South Alabama": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"South Carolina": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"South Florida": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"USC": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"SMU": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Southern Miss": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Stanford": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Syracuse": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"TCU": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Temple": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Tennessee": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Texas": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Texas A&M": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Texas State": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Texas Tech": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"UTEP": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"UTSA": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Toledo": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Troy": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Tulane": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Tulsa": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Utah": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Utah State": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Vanderbilt": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Virginia": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Virginia Tech": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Wake Forest": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Washington": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Washington State": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"West Virginia": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Western Kentucky": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Western Michigan": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Wisconsin": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},
+
+	"Wyoming": {
+		"latitude":,
+		"longitude":,
+		"logo":,
+		"url":,
+		"conference":,
+		"iconWidth":,
+		"iconHeight":
+	},*/
+}
+

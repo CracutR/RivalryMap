@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+       div#map {
+        height: 100%;
+        width: 100%;
+       }
+
+       body, html {
+       	height: 100%;
+       }
+
+
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script 
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDO2q4wouZ1oD8RQ1Am7rmwqKgNGtP4yuE">
+    </script>
+    <script type="text/javascript" language="javascript" src="./pac_12_team_data.json"></script>
+    <script type="text/javascript" language="javascript" src="./team_data.json"></script>
+    <script type="text/javascript" language="javascript" src="./teams.json"></script>
+    <script>
+      function initMap() {
+      	var pac12Teams = [
+      						"Washington", 
+      						"Washington State",
+      						"Oregon",
+      						"Oregon State",
+      						"California",
+      						"Stanford",
+      						"UCLA",
+      						"USC",
+      						"Arizona",
+      						"Arizona State",
+      						"Utah",
+      						"Colorado"];
+      	
+        var usaCenter = {lat:41.850033, lng:-87.6500523};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 5,
+          center: usaCenter
+        });
+        console.log(teamData);
+        for(var i = 0; i < teams.length; i++) {
+        	var team = teamData[teams[i]];
+        	console.log(team);
+        	var height = team.iconHeight / 10;
+        	var width = team.iconWidth / 10;
+        	var icon = {
+        		url: team.logo,
+        		scaledSize: new google.maps.Size(width, height),
+        		origin: new google.maps.Point(0,0),
+        		anchor: new google.maps.Point(width / 2, height / 2)
+        	}
+
+        	var marker = new google.maps.Marker({
+        		position: {lat: team.latitude, lng: team.longitude},
+        		map: map,
+        		icon: icon,
+        		url: team.url
+        	});
+        	var url = team.url
+        	google.maps.event.addListener(marker, 'click', function(){
+        		window.open(this.url);
+        	});
+        }
+        /*
+        var path = new google.maps.Polyline({
+        	path : [marker.position, marker2.position],
+          geodesic: true,
+          strokeColor: '#FF0000',
+          strokeOpacity: 1.0,
+          strokeWeight: 3,
+          url: 'https://en.wikipedia.org/wiki/Apple_Cup',
+          text: "Apple Cup"
+        });
+        path.setMap(map);
+
+       	var labelMarker = new google.maps.Marker({
+        	position: {lat:46.732, lng:-117.16},  
+        	map: map,
+        	visible: false
+    	});
+
+    	var myLabel = new Label();
+
+	    // lets add an event listener, if you click the line, i'll tell you the coordinates you clicked
+	    google.maps.event.addListener(path, 'mouseover', function(e) {
+	        labelMarker.setPosition(e.latLng)
+	        myLabel.bindTo('position', labelMarker, 'position');
+	        myLabel.set('text', this.text);
+	        myLabel.setMap(map);
+	    });
+
+	    google.maps.event.addListener(path, 'mouseout', function(e) {
+	    	myLabel.onRemove();
+	    	myLabel = new Label();
+	    });
+
+	    google.maps.event.addListener(path, 'click', function(){
+	    	window.open(this.url);
+	    });
+*/
+      }
+    </script>
+     <script type="text/javascript" src="label.js"></script>
+     <script>
+     	initMap();
+     </script>
+  </body>
+</html>
