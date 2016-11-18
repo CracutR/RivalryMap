@@ -406,57 +406,57 @@ var teamData = {
 		"conference":"AAC",
 		"iconWidth":388,
 		"iconHeight":363
-	}/*,
+	},
 
 	"Idaho": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":46.726,
+		"longitude":-117.017,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/University_of_Idaho_Vandals_logo.svg/401px-University_of_Idaho_Vandals_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Idaho_Vandals_football",
+		"conference":"Sun Belt",
+		"iconWidth":320,
+		"iconHeight":350
 	},
 
 	"Illinois": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":40.099167,
+		"longitude":-88.235833,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Illinois_Block_I.png/332px-Illinois_Block_I.png",
+		"url":"https://en.wikipedia.org/wiki/Illinois_Fighting_Illini_football",
+		"conference":"Big Ten",
+		"iconWidth":260,
+		"iconHeight":380
 	},
 
 	"Indiana": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":39.180833,
+		"longitude":-86.525556,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Indiana_Hoosiers_Logo.svg/380px-Indiana_Hoosiers_Logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Indiana_Hoosiers_football",
+		"conference":"Big Ten",
+		"iconWidth":380,
+		"iconHeight":480
 	},
 
 	"Iowa": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":41.658611,
+		"longitude":-91.551111,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/3/3b/Iowa_Hawkeyes_logo.png",
+		"url":"https://en.wikipedia.org/wiki/Iowa_Hawkeyes_football",
+		"conference":"Big Ten",
+		"iconWidth":420,
+		"iconHeight":323
 	},
 
 	"Iowa State": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
-	},
+		"latitude":42.014167,
+		"longitude":-93.635833,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Iowa_State_Cyclones_logo.svg/320px-Iowa_State_Cyclones_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Iowa_State_Cyclones_football",
+		"conference":"Big 12",
+		"iconWidth":420,
+		"iconHeight":329
+	}/*,
 
 	"Kansas": {
 		"latitude":,
