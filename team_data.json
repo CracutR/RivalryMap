@@ -456,227 +456,227 @@ var teamData = {
 		"conference":"Big 12",
 		"iconWidth":420,
 		"iconHeight":329
-	}/*,
+	},
 
 	"Kansas": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":38.963056,
+		"longitude":-95.246389,
+		"logo": "https://upload.wikimedia.org/wikipedia/en/4/4c/University_of_Kansas_Jayhawk_logo.svg",
+		"url":"https://en.wikipedia.org/wiki/Kansas_Jayhawks_football",
+		"conference":"Big 12",
+		"iconWidth":438,
+		"iconHeight":388
 	},
 
 	"Kansas State": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":39.201944,
+		"longitude":-96.593889,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/1/19/KSUWildcats_logo.svg/320px-KSUWildcats_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Kansas_State_Wildcats_football",
+		"conference":"Big 12",
+		"iconWidth":420,
+		"iconHeight":300
 	},
 
 	"Kent State": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":41.139167,
+		"longitude":-81.313333,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Kent_State_football.svg/320px-Kent_State_football.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Kent_State_Golden_Flashes_football",
+		"conference":"MAC",
+		"iconWidth":420,
+		"iconHeight":300
 	},
 
 	"Kentucky": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":38.022778,
+		"longitude":-84.505278,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kentucky_Wildcats_logo.svg/293px-Kentucky_Wildcats_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Kentucky_Wildcats_football",
+		"conference":"SEC",
+		"iconWidth":400,
+		"iconHeight":320
 	},
 
 	"LSU": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":30.411944,
+		"longitude":-91.185556,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Louisiana_State_University_%28block_logo%29.svg/484px-Louisiana_State_University_%28block_logo%29.svg.png",
+		"url":"https://en.wikipedia.org/wiki/LSU_Tigers_football",
+		"conference":"SEC",
+		"iconWidth":484,
+		"iconHeight":151
 	},
 
 	"Louisiana Tech": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":32.532222,
+		"longitude":-92.655833,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/LA_Tech_Athletics_Logo.svg/320px-LA_Tech_Athletics_Logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Louisiana_Tech_Bulldogs_football",
+		"conference":"C-USA",
+		"iconWidth":420,
+		"iconHeight":300
 	},
 
 	"Louisiana-Lafayette": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":30.215833,
+		"longitude":-92.041944,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Ragin_Cajuns_logo.svg/480px-Ragin_Cajuns_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Louisiana%E2%80%93Lafayette_Ragin%27_Cajuns_football",
+		"conference":"Sun Belt",
+		"iconWidth":400,
+		"iconHeight":400
 	},
 
 	"Louisiana-Monroe": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":32.530833,
+		"longitude":-92.065833,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Louisiana%E2%80%93Monroe_Warhawks_logo.svg/320px-Louisiana%E2%80%93Monroe_Warhawks_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Louisiana%E2%80%93Monroe_Warhawks_football",
+		"conference":"Sun Belt",
+		"iconWidth":400,
+		"iconHeight":338
 	},
 
 	"Louisville": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":38.205833,
+		"longitude":-85.758889,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Louisville_Cardinals_logo.svg/435px-Louisville_Cardinals_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Louisville_Cardinals_football",
+		"conference":"ACC",
+		"iconWidth":400,
+		"iconHeight":430
 	},
 
 	"Marshall": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":38.425,
+		"longitude":-82.420833,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Marshall_Thundering_Herd_logo.svg/320px-Marshall_Thundering_Herd_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Marshall_Thundering_Herd_football",
+		"conference":"C-USA",
+		"iconWidth":400,
+		"iconHeight":312
 	},
 
 	"Maryland": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":38.990278,
+		"longitude":-76.947222,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Maryland_Terrapins_logo.svg/291px-Maryland_Terrapins_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Maryland_Terrapins_football",
+		"conference":"Big Ten",
+		"iconWidth":350,
+		"iconHeight":390
 	},
 
 	"Massachusetts": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":42.377306,
+		"longitude":-72.536019,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UMass_primary_logo.png/291px-UMass_primary_logo.png",
+		"url":"https://en.wikipedia.org/wiki/UMass_Minutemen_football",
+		"conference":"Independent",
+		"iconWidth":400,
+		"iconHeight":330
 	},
 
 	"Memphis": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":35.121111,
+		"longitude":-89.9775,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/3/34/MemphisTigers.svg/276px-MemphisTigers.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Memphis_Tigers_football",
+		"conference":"AAC",
+		"iconWidth":400,
+		"iconHeight":350
 	},
 
 	"Miami (FL)": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":25.958056,
+		"longitude":-80.238889,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Miami_Hurricanes_logo.svg/512px-Miami_Hurricanes_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Miami_Hurricanes_football",
+		"conference":"ACC",
+		"iconWidth":450,
+		"iconHeight":300
 	},
 
 	"Miami (OH)": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":39.519444,
+		"longitude":-84.732778,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Miami_Redhawks_logo.svg/317px-Miami_Redhawks_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Miami_RedHawks_football",
+		"conference":"MAC",
+		"iconWidth":380,
+		"iconHeight":290
 	},
 
 	"Michigan": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":42.265833,
+		"longitude":-83.748611,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Michigan_Wolverines_logo.svg/320px-Michigan_Wolverines_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Michigan_Wolverines_football",
+		"conference":"Big Ten",
+		"iconWidth":400,
+		"iconHeight":290
 	},
 
 	"Michigan State": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":42.728056,
+		"longitude":-84.484722,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Michigan_State_Spartan_Helmet.svg/416px-Michigan_State_Spartan_Helmet.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Michigan_State_Spartans_football",
+		"conference":"Big Ten",
+		"iconWidth":350,
+		"iconHeight":400
 	},
 
 	"Middle Tennessee": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":35.850513,
+		"longitude":-86.368223,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Middle_Tennessee_Athletics_logo.svg/320px-Middle_Tennessee_Athletics_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Middle_Tennessee_Blue_Raiders_football",
+		"conference":"C-USA",
+		"iconWidth":400,
+		"iconHeight":270
 	},
 
 	"Minnesota": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":44.976,
+		"longitude":-93.225,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Minnesota_Golden_Gophers_logo.svg/320px-Minnesota_Golden_Gophers_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Minnesota_Golden_Gophers_football",
+		"conference":"Big Ten",
+		"iconWidth":400,
+		"iconHeight":260
 	},
 
 	"Ole Miss": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":34.361944,
+		"longitude":-89.534167,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ole_Miss_rebels_Logo.svg/410px-Ole_Miss_rebels_Logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Ole_Miss_Rebels_football",
+		"conference":"SEC",
+		"iconWidth":410,
+		"iconHeight":136
 	},
 
 	"Mississippi State": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":33.456389,
+		"longitude":-88.793611,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mississippi_State_Bulldogs.svg/320px-Mississippi_State_Bulldogs.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Mississippi_State_Bulldogs_football",
+		"conference":"SEC",
+		"iconWidth":400,
+		"iconHeight":260
 	},
 
 	"Missouri": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
-	},
+		"latitude":38.935833,
+		"longitude":-92.333056,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Missouri_Tigers_logo.svg/320px-Missouri_Tigers_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Missouri_Tigers_football",
+		"conference":"SEC",
+		"iconWidth":400,
+		"iconHeight":230
+	}/*,
 
 	"Navy": {
 		"latitude":,
