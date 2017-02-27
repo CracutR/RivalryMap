@@ -676,246 +676,245 @@ var teamData = {
 		"conference":"SEC",
 		"iconWidth":400,
 		"iconHeight":230
-	}/*,
+	},
 
 	"Navy": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":38.985,
+		"longitude":-76.507,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Navy_Athletics_logo.svg/393px-Navy_Athletics_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Navy_Midshipmen_football",
+		"conference":"AAC",
+		"iconWidth":330,
+		"iconHeight":400
 	},
 
 	"Nebraska": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":40.820556,
+		"longitude":-96.705556,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nebraska_Cornhuskers_logo.svg/480px-Nebraska_Cornhuskers_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Nebraska_Cornhuskers_football",
+		"conference":"Big Ten",
+		"iconWidth":380,
+		"iconHeight":380
 	},
 
 	"Nevada": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":39.546944,
+		"longitude":-119.8175,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Nevada_Wolf_Pack_Logo.svg/333px-Nevada_Wolf_Pack_Logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Nevada_Wolf_Pack_football",
+		"conference":"Mountain West",
+		"iconWidth":333,
+		"iconHeight":213
 	},
 
 	"UNLV": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":36.086,
+		"longitude":-115.017,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/UNLV_Rebels_logo.svg/261px-UNLV_Rebels_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/UNLV_Rebels_football",
+		"conference":"Mountain West",
+		"iconWidth":360,
+		"iconHeight":330
 	},
 
 	"New Mexico": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":35.066944,
+		"longitude":-106.628333,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/4/45/New_Mexico_Lobos_logo.svg/390px-New_Mexico_Lobos_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/New_Mexico_Lobos_football",
+		"conference":"Mountain West",
+		"iconWidth":290,
+		"iconHeight":390
 	},
 
 	"New Mexico State": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":32.279722,
+		"longitude":-106.741111,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/c/c3/New_Mexico_State_Aggies_Logo.svg",
+		"url":"https://en.wikipedia.org/wiki/New_Mexico_State_Aggies_football",
+		"conference":"Sun Belt",
+		"iconWidth":357,
+		"iconHeight":300
 	},
 
 	"North Carolina": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":35.906944,
+		"longitude":-79.047778,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/University_of_North_Carolina_Tarheels_Interlocking_NC_logo.svg/304px-University_of_North_Carolina_Tarheels_Interlocking_NC_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/North_Carolina_Tar_Heels_football",
+		"conference":"ACC",
+		"iconWidth":354,
+		"iconHeight":230
 	},
 
 	"NC State": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":35.800833,
+		"longitude":-78.719444,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/North_Carolina_State_University_Athletic_logo.svg/402px-North_Carolina_State_University_Athletic_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/NC_State_Wolfpack_football",
+		"conference":"ACC",
+		"iconWidth":320,
+		"iconHeight":380
 	},
 
 	"North Texas": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":33.203611,
+		"longitude":-97.159444,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/North_Texas_Mean_Green_logo.svg/431px-North_Texas_Mean_Green_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/North_Texas_Mean_Green_football",
+		"conference":"C-USA",
+		"iconWidth":331,
+		"iconHeight":360
 	},
 
 	"NIU": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":41.933889,
+		"longitude":-88.777778,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/NIU_Huskies.svg/248px-NIU_Huskies.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Northern_Illinois_Huskies_football",
+		"conference":"MAC",
+		"iconWidth":350,
+		"iconHeight":340
 	},
 
 	"Northwestern": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":42.065556,
+		"longitude":-87.6925,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Northwestern_Wildcats_logo.svg/312px-Northwestern_Wildcats_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Northwestern_Wildcats_football",
+		"conference":"Big Ten",
+		"iconWidth":250,
+		"iconHeight":370
 	},
 
 	"Notre Dame": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":41.698,
+		"longitude":-86.234,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/c/c7/NotreDameFightingIrish.svg",
+		"url":"https://en.wikipedia.org/wiki/Notre_Dame_Fighting_Irish_football",
+		"conference":"Independent",
+		"iconWidth":306,
+		"iconHeight":259
 	},
 
 	"Ohio": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":39.321111,
+		"longitude":-82.102778,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/7/78/Ohio_Bobcats_logo.svg",
+		"url":"https://en.wikipedia.org/wiki/Ohio_Bobcats_football",
+		"conference":"MAC",
+		"iconWidth":381,
+		"iconHeight":327
 	},
 
 	"Ohio State": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":40.001667,
+		"longitude":-83.019722,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2013_Ohio_State_Buckeyes_logo.svg/383px-2013_Ohio_State_Buckeyes_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Ohio_State_Buckeyes_football",
+		"conference":"Big Ten",
+		"iconWidth":383,
+		"iconHeight":377
 	},
 
 	"Oklahoma": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":35.205833,
+		"longitude":-97.4425,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Oklahoma_Sooners_logo.svg/174px-Oklahoma_Sooners_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Oklahoma_Sooners_football",
+		"conference":"Big 12",
+		"iconWidth":274,
+		"iconHeight":380
 	},
 
 	"Oklahoma State": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":36.125833,
+		"longitude":-97.066389,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Oklahoma_State_University_Athletics_logo.svg/320px-Oklahoma_State_University_Athletics_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Oklahoma_State_Cowboys_football",
+		"conference":"Big 12",
+		"iconWidth":320,
+		"iconHeight":166
 	},
 
 	"Old Dominion": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":36.8887600,
+		"longitude":-76.3046600,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/7/73/ODU_monarch_logo.svg/282px-ODU_monarch_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Old_Dominion_Monarchs_football",
+		"conference":"C-USA",
+		"iconWidth":282,
+		"iconHeight":240
 	},
 
-	"Oregon": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+	"Oregon" : {
+		"latitude":44.058333,
+		"longitude":-123.068611,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/OregonDucks.svg/290px-OregonDucks.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Oregon_Ducks_football",
+		"conference":"Pac-12",
+		"iconWidth":295,
+		"iconHeight":243
 	},
-
-	"Oregon State": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+	"Oregon State" : {
+		"latitude":44.559,
+		"longitude":-123.281,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/5/58/Oregon_State_Athletics_logo.svg",
+		"url":"https://en.wikipedia.org/wiki/Oregon_State_Beavers_football",
+		"conference":"Pac-12",
+		"iconWidth":360,
+		"iconHeight":200
 	},
 
 	"Penn State": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":40.812222,
+		"longitude":-77.856111,
+		"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Penn_State_Nittany_Lions.svg/320px-Penn_State_Nittany_Lions.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Penn_State_Nittany_Lions_football",
+		"conference":"Big Ten",
+		"iconWidth":320,
+		"iconHeight":222
 	},
 
 	"Pittsburgh": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":40.446667,
+		"longitude":-80.015833,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Pitt_Panthers_wordmark.svg/320px-Pitt_Panthers_wordmark.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Pittsburgh_Panthers_football",
+		"conference":"ACC",
+		"iconWidth":370,
+		"iconHeight":230
 	},
 
 	"Purdue": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":40.434444,
+		"longitude":-86.918333,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Purdue_Boilermakers_workmark.svg/320px-Purdue_Boilermakers_workmark.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Purdue_Boilermakers_football",
+		"conference":"Big Ten",
+		"iconWidth":350,
+		"iconHeight":195
 	},
 
 	"Rice": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":29.716389,
+		"longitude":-95.409167,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rice_University_Athletic_Mark.svg/198px-Rice_University_Athletic_Mark.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Rice_Owls_football",
+		"conference":"C-USA",
+		"iconWidth":198,
+		"iconHeight":240
 	},
 
 	"Rutgers": {
-		"latitude":,
-		"longitude":,
-		"logo":,
-		"url":,
-		"conference":,
-		"iconWidth":,
-		"iconHeight":
+		"latitude":40.513611,
+		"longitude":-74.465278,
+		"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rutgers_athletics_logo.svg/304px-Rutgers_athletics_logo.svg.png",
+		"url":"https://en.wikipedia.org/wiki/Rutgers_Scarlet_Knights_football",
+		"conference":"Big Ten",
+		"iconWidth":304,
+		"iconHeight":270
 	},
 
 	"San Diego State": {
